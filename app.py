@@ -16,7 +16,7 @@ groq_api_key = os.environ['GROQ_API_KEY']
 
 def main():
 
-    st.title("Groq Chat App")
+    st.title("Meg Expert Chat App")
 
     # Add customization options to the sidebar
     st.sidebar.title('Select an LLM')
